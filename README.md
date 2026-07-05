@@ -24,7 +24,9 @@ Repository submission: `Day26-Track1-2A202600702-HoangHieuTrung`
 | Kiem tra AI differentiation | Done | Section 2 in `Deal_Case_Brief.md` |
 | Dinh vi theo startup funding stage | Done | Sections 3-4 in `Deal_Case_Brief.md` |
 | Lap investor mapping cho idea A3 | Done | 5 investors in `Investor_Mapping_Table.md` |
+| Dung Lists method de tim investor | Done | Research method section in `Investor_Mapping_Table.md` |
 | Viet market positioning memo | Done | `Market_Positioning_Memo.md` |
+| Dung market data trong bai chia se | Done | Opening market context in `Market_Positioning_Memo.md` |
 | Co unit economics, cash needs, KPI | Done | Sections in `Market_Positioning_Memo.md` |
 | Dung nguon cong bo that | Done | Sources listed inside each deliverable |
 
